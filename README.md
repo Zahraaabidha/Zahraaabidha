@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Aabidha 😊! a developer exploring full-stack development, AI, and distributed systems.<br>I enjoy building practical projects, learning new technologies, and improving the way systems communicate and work together.<br><br>Right now, I’m learning, experimenting, and collaborating wherever I can add value.<br>If you’re working on something interesting, feel free to reach out — I’m always open to new ideas, challenges, and conversations.
+Hi, I’m Aabidha 😊! a developer exploring full-stack development, AI, and distributed systems.<br>I enjoy building practical projects, learning new technologies, and improving the way systems communicate and work together.<br><br>Right now, I’m learning, experimenting, and collaborating wherever I can add value.<br>If you’re working on something interesting, feel free to reach out I’m always open to new ideas, challenges, and conversations.
 
 
 ## 🌐 Socials:
