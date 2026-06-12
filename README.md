@@ -29,7 +29,7 @@ I learn best by building. Most of my projects start as questions and end with me
 
 </td>
 <td width="45%" valign="top" align="center">
-<img src="https://github.com/user-attachments/assets/2c8b5fc3-c0c9-462b-ae33-f67bf852a8e9" width="260"/>
+<img src="https://github.com/user-attachments/assets/2c8b5fc3-c0c9-462b-ae33-f67bf852a8e9" width="220"/>
   
 
 
