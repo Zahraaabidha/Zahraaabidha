@@ -6,7 +6,7 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=18&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=I+build+things+that+shouldn't+exist+yet.;AI+pipelines+%F0%9F%A4%96+%7C+Security+systems+%F0%9F%94%90+%7C+Interfaces+that+feel+alive+%F0%9F%8E%A8;SRM+CS+%E2%80%A2+CGPA+8.9+%E2%80%A2+IEEE+Researcher;Certified+in+Cloud+Security.+Dangerous+on+a+hackathon.;Open+to+chaos%2C+collaboration%2C+and+coffee.)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Zahraaabidha&color=a855f7&style=flat-square&label=people+who+found+this" />
+
 
 </div>
 
