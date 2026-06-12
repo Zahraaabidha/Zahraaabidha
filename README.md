@@ -17,7 +17,7 @@ Building at the intersection of AI, cybersecurity, cloud infrastructure and imme
 <tr>
 <td width="55%" valign="top">
 
-### so, what do i actually do?.
+### so, what do i actually do?
 
 I'm a Computer Science student at **SRMIST, Chennai** building projects across AI, cybersecurity, cloud infrastructure and interactive web experiences.
 
@@ -29,17 +29,22 @@ I learn best by building. Most of my projects start as questions and end with me
 
 </td>
 <td width="45%" valign="top" align="center">
+<img src="https://github.com/user-attachments/assets/2c8b5fc3-c0c9-462b-ae33-f67bf852a8e9" width="260"/>
+  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zahraaabidha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=F59E0B&text_color=E2E8F0&rank_icon=github)](https://github.com/Zahraaabidha)
-
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zahraaabidha&theme=tokyonight&hide_border=true&background=0D0D0D&ring=A855F7&fire=F59E0B&currStreakLabel=E2E8F0)](https://github.com/Zahraaabidha)
 
 </td>
 </tr>
 </table>
 
 ---
+<div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Zahraaabidha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=F59E0B&text_color=E2E8F0&rank_icon=github" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Zahraaabidha&theme=tokyonight&hide_border=true&background=0D0D0D&ring=A855F7&fire=F59E0B&currStreakLabel=E2E8F0" />
+
+</div>
 
 
 ---
