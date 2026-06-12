@@ -7,7 +7,7 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=18&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=I+build+things+that+shouldn't+exist+yet.;AI+pipelines+%F0%9F%A4%96+%7C+Security+systems+%F0%9F%94%90+%7C+Interfaces+that+feel+alive+%F0%9F%8E%A8;Certified+in+Cloud+Security.+Dangerous+on+a+hackathon.;Open+to+chaos%2C+collaboration%2C+and+coffee.)](https://git.io/typing-svg)
 
-Building at the intersection of AI, cybersecurity, cloud infrastructure, and immersive web experiences.
+Building at the intersection of AI, cybersecurity, cloud infrastructure and immersive web experiences.
 </div>
 
 ---
@@ -31,7 +31,7 @@ My projects usually begin with curiosity and end with me learning three technolo
 
 I enjoy solving difficult problems, shipping projects, and occasionally discovering that the "quick side project" was neither quick nor a side project
 
-> *Frequently overengineering side projects and learning from the consequences.*
+> *Most of my projects start as questions and end as systems.*
 
 </td>
 <td width="45%" valign="top" align="center">
@@ -52,7 +52,7 @@ I enjoy solving difficult problems, shipping projects, and occasionally discover
 
 ## 🧠 things i've spent too much time learning
 
-**AI / ML — here most of my GPU budget goes**
+**AI / ML - here most of my GPU budget goes**
 
 ![Python](https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=F59E0B)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0D0D0D?style=flat-square&logo=pytorch&logoColor=EE4C2C)
@@ -63,7 +63,7 @@ I enjoy solving difficult problems, shipping projects, and occasionally discover
 ![FAISS](https://img.shields.io/badge/FAISS-0D0D0D?style=flat-square&logo=meta&logoColor=0668E1)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D0D0D?style=flat-square&logo=fastapi&logoColor=009688)
 
-**Cybersecurity — *certified* professionally suspicious**
+**Cybersecurity (certified) - professionally suspicious**
 
 ![Fortinet FCP](https://img.shields.io/badge/Fortinet_FCP-0D0D0D?style=flat-square&logo=fortinet&logoColor=EE3124)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D0D0D?style=flat-square&logo=kalilinux&logoColor=557C94)
@@ -71,7 +71,7 @@ I enjoy solving difficult problems, shipping projects, and occasionally discover
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D0D0D?style=flat-square&logo=burpsuite&logoColor=FF6633)
 ![OWASP](https://img.shields.io/badge/OWASP_Top10-0D0D0D?style=flat-square&logo=owasp&logoColor=A855F7)
 
-**Cloud & DevOps — making deployment somebody else's problem**
+**Cloud & DevOps - making deployment somebody else's problem**
 
 ![AWS](https://img.shields.io/badge/AWS-0D0D0D?style=flat-square&logo=amazonaws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-0D0D0D?style=flat-square&logo=docker&logoColor=2496ED)
@@ -80,7 +80,7 @@ I enjoy solving difficult problems, shipping projects, and occasionally discover
 ![Jenkins](https://img.shields.io/badge/Jenkins-0D0D0D?style=flat-square&logo=jenkins&logoColor=D24939)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0D0D0D?style=flat-square&logo=kubernetes&logoColor=326CE5)
 
-**Frontend / Creative — proving that websites can, in fact, have depth**
+**Frontend / Creative - proving that websites can, in fact, have depth**
 
 ![React](https://img.shields.io/badge/React-0D0D0D?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D0D0D?style=flat-square&logo=typescript&logoColor=3178C6)
@@ -145,11 +145,19 @@ Parametric income protection platform designed for gig workers, exploring transp
 ## 🏆 highlights
 
 ```
-📄  IEEE + Springer            →  2 papers submitted  (ELYSIUM drug discovery)
-🔐  Fortinet FCP               →  Cloud Security certified  (NSE 4 + NSE 5)
-🎮  Unity                      →  Certified Associate: Programmer
-⚡  IEEE GRSS                  →  Technical Head @ SRMIST
-🎓  SRMIST                     →  CS undergrad  ·  CGPA 8.9+
+📄  Research
+→  AI-driven drug discovery research submitted to IEEE and Springer conferences
+
+🔐  Fortinet FCP
+→  Cloud Security certified  (NSE 4 + NSE 5)
+→  Unity Certified Associate Programmer
+
+⚡  Leadership
+→  Technical Head @ SRMIST
+
+🎓  SRMIST
+→  B.Tech Computer Science, SRMIST
+→  CGPA: 8.9+
 ```
 
 ---
