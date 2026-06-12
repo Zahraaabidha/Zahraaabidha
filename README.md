@@ -41,22 +41,6 @@ By night I'm reverse engineering APKs, designing 3D portfolio sites with WebGL, 
 
 ---
 
-## 🎬 watch something i built
-
-<!-- VIDEO THUMBNAIL — clickable, opens YouTube -->
-<div align="center">
-
-<a href="https://youtu.be/Ytqn-1CaJ2w?si=zgPmwVW0m-669WbE" target="_blank">
-  <img src="https://img.youtube.com/vi/Ytqn-1CaJ2w/maxresdefault.jpg" 
-       alt="▶ Watch Project Demo" 
-       width="720"
-       style="border-radius:12px; border: 2px solid #A855F7;" />
-</a>
-
-<br/>
-<sub>▶ &nbsp;click to watch · opens YouTube</sub>
-
-</div>
 
 ---
 
