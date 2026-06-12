@@ -4,13 +4,8 @@
 <!-- HOW TO HOST: drag this image into any GitHub Issue comment box → copy the URL it generates → paste here -->
 <img width="100%" src="https://github.com/user-attachments/assets/ea37f4b5-f6c5-4df0-8459-10c8a67d66f8" alt="Aabidha Zahra Banner" />
 
-<!-- CAPSULE RENDER WAVE (sits right below the banner) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1a0533,100:0D0D0D&height=120&section=header" />
-
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=18&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=I+build+things+that+shouldn't+exist+yet.;AI+pipelines+%F0%9F%A4%96+%7C+Security+systems+%F0%9F%94%90+%7C+Interfaces+that+feel+alive+%F0%9F%8E%A8;SRM+CS+%E2%80%A2+CGPA+8.9+%E2%80%A2+IEEE+Researcher;Certified+in+Cloud+Security.+Dangerous+on+a+hackathon.;Open+to+chaos%2C+collaboration%2C+and+coffee.)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=Zahraaabidha&color=a855f7&style=flat-square&label=people+who+found+this" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=18&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=I+build+things+that+shouldn't+exist+yet.;AI+pipelines+%F0%9F%A4%96+%7C+Security+systems+%F0%9F%94%90+%7C+Interfaces+that+feel+alive+%F0%9F%8E%A8;Certified+in+Cloud+Security.+Dangerous+on+a+hackathon.;Open+to+chaos%2C+collaboration%2C+and+coffee.)](https://git.io/typing-svg)
 
 </div>
 
