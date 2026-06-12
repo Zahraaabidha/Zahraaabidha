@@ -19,17 +19,11 @@ Building at the intersection of AI, cybersecurity, cloud infrastructure and imme
 
 ### so, what do i actually do?.
 
-I'm a Computer Science student at **SRMIST, Chennai** who spends an unreasonable amount of time turning ambitious ideas into working systems.
+I'm a Computer Science student at **SRMIST, Chennai** building projects across AI, cybersecurity, cloud infrastructure and interactive web experiences.
 
-Most of my work sits somewhere between **AI, cybersecurity, cloud infrastructure, and interactive web experiences.**
+Recently that has meant developing malware analysis pipelines, researching AI-driven drug discovery, deploying cloud-native applications and experimenting with WebGL and 3D interfaces.
 
-Lately, that has meant building malware analysis pipelines, researching AI-driven drug discovery, deploying applications through automated cloud infrastructure, and spending far too much time experimenting with WebGL and 3D experiences.
-
-I'm usually learning by building. If a technology interests me, I'd rather create something with it than spend weeks reading about it.
-
-My projects usually begin with curiosity and end with me learning three technologies I never planned to touch.
-
-I enjoy solving difficult problems, shipping projects, and occasionally discovering that the "quick side project" was neither quick nor a side project
+I learn best by building. Most of my projects start as questions and end with me learning technologies I never planned to touch.
 
 > *Most of my projects start as questions and end as systems.*
 
