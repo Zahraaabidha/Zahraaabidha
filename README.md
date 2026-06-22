@@ -106,7 +106,7 @@ AI-assisted drug discovery platform combining transformer-based molecular embedd
 </td>
 <td align="center" width="50%">
 
-### 🛡️ APKShield
+### 🛡️ ASTRA
 Android malware analysis framework combining static analysis, behavioral profiling, and machine learning classification to detect malicious applications and suspicious activity patterns.
 
 `Python` `Static Analysis` `Dynamic Analysis` `ML`
