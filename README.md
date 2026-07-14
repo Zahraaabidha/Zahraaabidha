@@ -156,7 +156,7 @@ Parametric income protection platform designed for gig workers, exploring transp
 
 🎓  SRMIST
 →  B.Tech Computer Science, SRMIST
-→  CGPA: 8.9+
+→  CGPA: 9.01+
 ```
 
 ---
