@@ -42,7 +42,8 @@ I learn best by building. Most of my projects start as questions and end with me
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Zahraaabidha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=F59E0B&text_color=E2E8F0&rank_icon=github" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Zahraaabidha&theme=tokyonight&hide_border=true&background=0D0D0D&ring=A855F7&fire=F59E0B&currStreakLabel=E2E8F0" />
+<!<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Zahraaabidha&theme=tokyonight&hide_border=true&background=0D0D0D&ring=A855F7&fire=F59E0B&currStreakLabel=E2E8F0" />
+<img height="170" src="https://streak-stats.demolab.com?user=Zahraaabidha&theme=tokyonight&hide_border=true&background=0D0D0D&ring=A855F7&fire=F59E0B&currStreakLabel=E2E8F0" />
 
 </div>
 
@@ -90,50 +91,53 @@ I learn best by building. Most of my projects start as questions and end with me
 
 ---
 
-## 🚀 things i built 
+## 🚀 things i built
 
 <table>
 <tr>
 <td align="center" width="50%">
 
-### 🧬 ELYSIUM
-AI-assisted drug discovery platform combining transformer-based molecular embeddings, vector search, and graph databases to identify promising molecular candidates. Research submitted to multiple IEEE and Springer conferences.
+### 🚦 DrishtiVia
+AI-powered traffic violation detection platform that combines computer vision, FastAPI and React to detect violations, manage evidence and provide a real-time dashboard.
 
-`Python` `ChemBERTa` `FAISS` `ArangoDB` `FastAPI` `React`
+`FastAPI` `React` `Python` `Computer Vision` `PostgreSQL`
 
-[→ view repo](https://github.com/Zahraaabidha)
+[→ view repo](https://github.com/Zahraaabidha/DrishtiVia)
 
 </td>
+
 <td align="center" width="50%">
 
 ### 🛡️ ASTRA
-Android malware analysis framework combining static analysis, behavioral profiling, and machine learning classification to detect malicious applications and suspicious activity patterns.
+AI-powered Android malware triage platform for automated malware analysis using machine learning and static analysis techniques.
 
-`Python` `Static Analysis` `Dynamic Analysis` `ML`
+`Python` `Machine Learning` `FastAPI` `Cybersecurity`
 
-[→ view repo](https://github.com/Zahraaabidha)
+[→ view repo](https://github.com/Zahraaabidha/ASTRA)
 
 </td>
 </tr>
+
 <tr>
 <td align="center" width="50%">
 
-### ☁️ Cloud DevOps Pipeline
-End-to-end CI/CD deployment pipeline for a Quantum Visual Simulator on AWS, integrating infrastructure provisioning, configuration management, containerization, and automated deployments.
+### 🧬 ELYSIUM
+AI-assisted drug discovery platform using ChemBERTa, FAISS and vector search to discover potential molecular candidates.
 
-`AWS` `Terraform` `Ansible` `Jenkins` `Docker`
+`Python` `ChemBERTa` `FAISS` `FastAPI` `React`
 
-[→ view repo](https://github.com/Zahraaabidha/cloud_devops)
+[→ view repo](https://github.com/Zahraaabidha/drug-discovery-ELYSIUM)
 
 </td>
+
 <td align="center" width="50%">
 
-### 💸 GigShield
-Parametric income protection platform designed for gig workers, exploring transparent claim processing and technology-driven insurance solutions. 
+### 🌌 WebGPU Black Hole
+Interactive WebGPU visualization exploring GPU rendering, shaders and real-time graphics in the browser.
 
-`React` `TypeScript` `Tailwind` `Framer Motion`
+`WebGPU` `TypeScript` `Graphics` `Shaders`
 
-[→ view repo](https://github.com/Zahraaabidha)
+[→ view repo](https://github.com/Zahraaabidha/webgpu-black-hole)
 
 </td>
 </tr>
