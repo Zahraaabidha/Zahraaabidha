@@ -40,9 +40,6 @@ I learn best by building. Most of my projects start as questions and end with me
 ---
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Zahraaabidha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=F59E0B&text_color=E2E8F0&rank_icon=github" />
-
-
 <img height="170" src="https://streak-stats.demolab.com?user=Zahraaabidha&theme=tokyonight&hide_border=true&background=0D0D0D&ring=A855F7&fire=F59E0B&currStreakLabel=E2E8F0" />
 
 </div>
@@ -151,9 +148,11 @@ Interactive WebGPU visualization exploring GPU rendering, shaders and real-time 
 📄  Research
 →  AI-driven drug discovery research submitted to IEEE and Springer conferences
 
-🔐  Fortinet FCP
-→  Cloud Security certified  (NSE 4 + NSE 5)
-→  Unity Certified Associate Programmer
+🔐  Certifications
+→ Fortinet FCP Cloud Security
+→ SAP Certified – Generative AI Developer
+→ AWS Cloud Practitioner
+→ Unity Certified Associate Programmer
 
 ⚡  Leadership
 →  Technical Head @ SRMIST
