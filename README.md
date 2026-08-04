@@ -39,7 +39,9 @@ I learn best by building. Most of my projects start as questions and end with me
 
 ---
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=Zahraaabidha&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img
+src="https://streak-stats.demolab.com?user=Zahraaabidha&theme=tokyonight&hide_border=true&t=123456"
+height="170">
 </div>
 
 
